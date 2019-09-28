@@ -1,0 +1,64 @@
+Location: Home
+Long Description:
+You are at home, you are asked to deliver a very important message to a village to warn them about an attack. You have a horse and some belongings, and you have to go through a forest.
+Short Description:
+You are at home.
+North Forest East Nothing South Nothing West Nothing
+To the north is a forest.
+
+Location: Forest
+Long Description:
+You are in the middle of a forest. You left your horse for a minute and you came back to find it gone with your belongings. You only have the message and some money with you.
+Short Description:
+You are at the middle of the forest where you lost your stuff.
+North Village East Forest2 South Home West Forest3
+To the north is the village. East and west are forest areas. South is Home.
+
+Location: Village
+Long Description:
+You are at the entrance of the village where you should find the person you are delivering the message for. This is a huge place, so it will take long to find him.
+Short Description:
+You are at the entrance of the village.
+North Neighborhood East Stable South Nothing West Restaurant
+To the north is a neighborhood in the village. There is a stable to the east, in case you need a horse, and a restaurant to the west.
+
+Location: Forest2
+Long Description:
+East side of the forest is a dangerous area, and you got eaten by a wolf. Because of you the village is in danger!
+Short Description:
+East side of the forest is a dangerous area, and you got eaten by a wolf. Because of you the village is in danger!
+North Nothing East Nothing South Nothing West Nothing
+There is no way out of here.
+
+Location: Forest3
+Long Description:
+Great! you found your belongings. Your horse went here to drink from the lake. This is the west of the forest.
+Short Description:
+This is the west of the forest where you horse ran.
+North Nothing East Forest South Nothing West Nothing
+To the east is the middle of the forest, where you were earlier.
+
+Location: Neighborhood
+Long Description:
+You finally found the destination! Give the person the message and return home and you are done!
+Short Description:
+You are at the neighborhood where you are/were supposed to drop the message.
+North Nothing East Nothing South Village West Nothing
+To the south is the entrance of the village.
+
+Location: Restaurant
+Long Description:
+You found a restaurant. You are very hungry because of this trip, do you want to grab some food?
+Short Description:
+you are at the restaurant.
+North Nothing East Village South Nothing West Nothing
+To the east is the entrance of the village.
+
+Location: Stable
+Long Description:
+You are at a stable, if you haven't found your horse, then maybe you want to rent one.
+Short Description:
+You are at a stable.
+North Nothing East Nothing South Nothing West Village
+To the west is the entrance of the village.
+

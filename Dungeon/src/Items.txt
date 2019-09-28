@@ -1,0 +1,30 @@
+Item: Message
+Location: Home
+Descritpion: This is an important message that you need to deliver to the village.
+Pickable: Yes
+
+Item: MyHorse
+Location: Forest3
+Descritpion: This is your lost horse.
+Pickable: Yes
+
+Item: Money
+Location: Forest3
+Descritpion: This is your lost money
+Pickable: Yes
+
+Item: LostMoney
+Location: Village
+Descritpion: This is a bag of money you found on the floor
+Pickable: Yes
+
+Item: Horse
+Location: Stable
+Description: You can rent this horse if you want.
+Pickable: No
+
+Item: Food
+Location: Restaurant
+Description: You can buy some food from the restaurant if you have money or if you stole some.
+Pickable: No
+
